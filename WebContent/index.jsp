@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Git Web Demo
+Git Web Demo build via Maven
 </body>
 </html>
